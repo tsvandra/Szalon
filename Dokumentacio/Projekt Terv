@@ -1,0 +1,32 @@
+Természetesen, íme egy részletes projekt terv, amely tartalmazza a rendszer céljait és funkcióit:
+
+## Projekt Terv
+
+### Projekt Céljai
+
+1. **Digitalizálás és Automatizáció**: Modernizálja a fodrászsalon üzemeltetését azáltal, hogy automatizálja a megrendelések, bevételek és kiadások nyomon követését.
+2. **Online Láthatóság**: Növelje a szalon online láthatóságát egy attraktív, felhasználóbarát weboldal segítségével, ahol a munkák képekben is bemutatásra kerülnek.
+3. **Interaktivitás és Közösségi Média Integráció**: Biztosítson egy interaktív platformot, ahol az ügyfelek időpontot foglalhatnak, és könnyen megoszthatók a képek a közösségi média platformokon.
+4. **Jelentésgenerálás**: Készítsen egy rendszert, amely lehetővé teszi az üzleti jelentések egyszerű generálását, segítve ezzel a döntéshozatalt és a növekedés tervezését.
+
+### Funkciók és Követelmények
+
+1. **Felhasználói Felület**:
+   - **Főoldal**: Bemutatja a szalont, a szolgáltatásokat és a galériát a fodrász munkáiból.
+   - **Szolgáltatások**: Részletes leírás a kínált szolgáltatásokról és az árakról.
+   - **Galéria**: Egy szekció, ahol a fodrász képeket tölthet fel a munkáiról.
+   - **Időpontfoglalás**: Egy funkció, amely lehetővé teszi az ügyfelek számára az időpontfoglalást online.
+   - **Kapcsolat és Helymeghatározás**: Kapcsolati információk és a szalon helyének bemutatása egy térképen.
+
+2. **Adminisztrációs Panel**:
+   - **Megrendelések Nyomon Követése**: Egy rész, ahol nyomon követhetők és kezelhetők a foglalások és megrendelések.
+   - **Bevételek és Kiadások Nyilvántartása**: Funkció a bevételek és kiadások rögzítésére és nyomon követésére.
+   - **Jelentésgenerálás**: Egy szerszám a különböző jelentések (pl. havi bevétel, népszerű szolgáltatások) generálásához.
+   - **Képfeltöltés és Szerkesztés**: Funkciók a képek feltöltéséhez, szerkesztéséhez és törléséhez a galériában.
+   - **Szolgáltatások Kezelése**: Egy rész, ahol frissítheti a szolgáltatások listáját és az árakat.
+
+3. **Közösségi Média Integráció**:
+   - **Megosztás**: Lehetőség a képek és bejegyzések könnyű megosztására a népszerű közösségi média platformokon.
+   - **Visszajelzések és Értékelések**: Funkció, amely lehetővé teszi az ügyfelek számára, hogy értékeléseket és visszajelzéseket adjanak a szolgáltatásokról.
+
+4. **Mobilbarát és SEO Optimalizált**: A weboldalnak mobilbarátnak és SEO-optimalizáltnak kell lennie a jobb online láthatóság és a felhasználói élmény érdekében.

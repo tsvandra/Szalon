@@ -1,0 +1,49 @@
+## Követelménygyűjtő Dokumentum
+
+### Bevezetés
+
+A dokumentum célja, hogy meghatározza a fodrászsalon online rendszerének alapvető funkcionális és nem funkcionális követelményeit, amelyek segítik a salon üzemeltetését és online jelenlétét.
+
+### Funkcionális Követelmények
+
+1. **Időpontfoglalás**
+    - Online időpontfoglalás lehetősége
+    - Automatikus időpont-értesítők és emlékeztetők (e-mailben vagy SMS-ben)
+
+2. **Pénzügyi Nyilvántartás**
+    - Bevételek és kiadások nyomon követése
+    - Automatikus számlázás és nyugta generálás
+
+3. **Galéria és Tartalomkezelő Rendszer**
+    - Könnyen kezelhető galéria, ahol a feleséged feltölthet képeket
+    - Blog vagy hírek szekció a legújabb frizura trendek bemutatására és tippek megosztására
+
+4. **Közösségi Média Integráció**
+    - Könnyű képmegosztás a népszerű közösségi média platformokon
+    - Beépített közösségi média komment és like funkció
+
+5. **Visszajelzés és Értékelés**
+    - A felhasználók hagyhatnak visszajelzéseket és értékeléseket
+    - A feleséged válaszolhat a visszajelzésekre
+
+### Nem Funkcionális Követelmények
+
+1. **Használhatóság**
+    - Felhasználóbarát interfész
+    - Mobilbarát design, hogy könnyen használható legyen minden eszközön
+
+2. **Teljesítmény**
+    - Gyors betöltési idő
+    - Optimalizált képfeltöltés a gyorsabb megjelenítés érdekében
+
+3. **Biztonság**
+    - Adatvédelmi funkciók az ügyfelek személyes adatainak védelme érdekében
+    - Biztonsági mentések a rendszer rendszeres mentéséhez
+
+4. **Skalabilitás**
+    - A rendszer képes legyen kezelni a növekvő ügyfélbázist és forgalmat
+    - Könnyen frissíthető új funkciókkal a jövőben
+
+5. **SEO (Keresőoptimalizálás)**
+    - SEO-barát struktúra a jobb láthatóság érdekében a keresőmotorokban
+    - Integrált analitikai eszközök a weboldal teljesítményének nyomon követésére
