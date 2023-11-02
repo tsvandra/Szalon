@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-SzalonProjekt-00da13c7-7b12-40a9-818a-c8e8db08e915")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SzalonProjekt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
