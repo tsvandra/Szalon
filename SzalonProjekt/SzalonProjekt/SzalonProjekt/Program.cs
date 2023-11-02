@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Identity;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using SzalonProjekt.Data;
 using SzalonProjekt.Models;
@@ -10,6 +11,8 @@ namespace SzalonProjekt
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            TestConnection(builder.Configuration.GetConnectionString("DefaultConnection"));
 
             // Add services to the container.
             var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
@@ -49,6 +52,22 @@ namespace SzalonProjekt
             app.MapRazorPages();
 
             app.Run();
+        }
+
+        private static void TestConnection(string connectionString)
+        {
+            using (var connection = new SqlConnection(connectionString))
+            {
+                try
+                {
+                    connection.Open();
+                    Console.WriteLine("Kapcsolat sikeres!");
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine($"Hiba: {ex.Message}");
+                }
+            }
         }
     }
 }
