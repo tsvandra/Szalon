@@ -88,3 +88,6 @@ C:\Kinga\Szalon_V2\SzalonProjekt\SzalonProjekt\SzalonProjekt\obj\Debug\net6.0\re
 C:\Kinga\Szalon_V2\SzalonProjekt\SzalonProjekt\SzalonProjekt\obj\Debug\net6.0\SzalonProjekt.pdb
 C:\Kinga\Szalon_V2\SzalonProjekt\SzalonProjekt\SzalonProjekt\obj\Debug\net6.0\SzalonProjekt.genruntimeconfig.cache
 C:\Kinga\Szalon_V2\SzalonProjekt\SzalonProjekt\SzalonProjekt\obj\Debug\net6.0\ref\SzalonProjekt.dll
+C:\Users\Tsvandra\Source\Repos\tsvandra\Szalon\SzalonProjekt\SzalonProjekt\SzalonProjekt\obj\Debug\net6.0\SzalonProjekt.dll
+C:\Users\Tsvandra\Source\Repos\tsvandra\Szalon\SzalonProjekt\SzalonProjekt\SzalonProjekt\obj\Debug\net6.0\refint\SzalonProjekt.dll
+C:\Users\Tsvandra\Source\Repos\tsvandra\Szalon\SzalonProjekt\SzalonProjekt\SzalonProjekt\obj\Debug\net6.0\SzalonProjekt.pdb

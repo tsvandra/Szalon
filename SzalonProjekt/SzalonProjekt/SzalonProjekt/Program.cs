@@ -61,7 +61,7 @@ namespace SzalonProjekt
                 try
                 {
                     connection.Open();
-                    Console.WriteLine("Kapcsolat sikeres!");
+                    Console.WriteLine("Kapcsolat sikeres!(teszt)");
                 }
                 catch (Exception ex)
                 {

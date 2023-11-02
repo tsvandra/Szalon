@@ -3164,19 +3164,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tsvan\\.nuget\\packages\\": {}
+    "C:\\Users\\Tsvandra\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Kinga\\Szalon_V2\\SzalonProjekt\\SzalonProjekt\\SzalonProjekt\\SzalonProjekt.csproj",
+      "projectUniqueName": "C:\\Users\\Tsvandra\\source\\repos\\tsvandra\\Szalon\\SzalonProjekt\\SzalonProjekt\\SzalonProjekt\\SzalonProjekt.csproj",
       "projectName": "SzalonProjekt",
-      "projectPath": "C:\\Kinga\\Szalon_V2\\SzalonProjekt\\SzalonProjekt\\SzalonProjekt\\SzalonProjekt.csproj",
-      "packagesPath": "C:\\Users\\tsvan\\.nuget\\packages\\",
-      "outputPath": "C:\\Kinga\\Szalon_V2\\SzalonProjekt\\SzalonProjekt\\SzalonProjekt\\obj\\",
+      "projectPath": "C:\\Users\\Tsvandra\\source\\repos\\tsvandra\\Szalon\\SzalonProjekt\\SzalonProjekt\\SzalonProjekt\\SzalonProjekt.csproj",
+      "packagesPath": "C:\\Users\\Tsvandra\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tsvandra\\source\\repos\\tsvandra\\Szalon\\SzalonProjekt\\SzalonProjekt\\SzalonProjekt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tsvan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Tsvandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

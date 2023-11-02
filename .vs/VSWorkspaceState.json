@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Dokumentacio"
+    "\\SzalonProjekt",
+    "\\SzalonProjekt\\SzalonProjekt",
+    "\\SzalonProjekt\\SzalonProjekt\\SzalonProjekt"
   ],
-  "SelectedNode": "\\SzalonProjekt",
+  "SelectedNode": "\\SzalonProjekt\\SzalonProjekt\\SzalonProjekt.sln",
   "PreviewInSolutionExplorer": false
 }
