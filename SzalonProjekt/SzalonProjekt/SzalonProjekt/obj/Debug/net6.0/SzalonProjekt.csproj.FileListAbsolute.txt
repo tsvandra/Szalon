@@ -178,3 +178,5 @@ C:\Users\Tsvandra\source\repos\tsvandra\Szalon\SzalonProjekt\SzalonProjekt\Szalo
 C:\Users\Tsvandra\source\repos\tsvandra\Szalon\SzalonProjekt\SzalonProjekt\SzalonProjekt\obj\Debug\net6.0\SzalonProjekt.pdb
 C:\Users\Tsvandra\source\repos\tsvandra\Szalon\SzalonProjekt\SzalonProjekt\SzalonProjekt\obj\Debug\net6.0\SzalonProjekt.genruntimeconfig.cache
 C:\Users\Tsvandra\source\repos\tsvandra\Szalon\SzalonProjekt\SzalonProjekt\SzalonProjekt\obj\Debug\net6.0\ref\SzalonProjekt.dll
+C:\Kinga\Szalon_V2\SzalonProjekt\SzalonProjekt\SzalonProjekt\bin\Debug\net6.0\global.json
+C:\Kinga\Szalon_V2\SzalonProjekt\SzalonProjekt\SzalonProjekt\bin\Debug\net6.0\appsettings.Production.json
